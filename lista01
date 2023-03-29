@@ -1,0 +1,16 @@
+import random
+
+L = list()
+i = 0
+for x in range(10):
+    a = random.randint(1,100)
+    
+    L.append(a)
+    L.sort()
+    if a >10 and a < 40 and a % 2 == 0:
+        i += 1
+print(L)
+print("Pari >",i)
+
+    
+
