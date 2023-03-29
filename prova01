@@ -1,0 +1,2 @@
+L = {Baracca,Balbo}
+print(L)
