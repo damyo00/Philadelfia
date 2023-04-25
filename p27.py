@@ -12,7 +12,7 @@ giocatore=dict()
 giocatore['portiere']="andrea"
 anagrafe.append(giocatore)
 giocatore=dict()
-giocatore['terziono']="riccardo"
+giocatore['terzino']="riccardo"
 anagrafe.append(giocatore)
 giocatore=dict()
 giocatore['centravanti']="stefano"
